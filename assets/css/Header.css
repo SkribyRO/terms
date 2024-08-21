@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+
+* {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    cursor: pointer;
+}
+
+#Header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    margin: 15px;
+}
+
+#Header div {
+    display: flex;
+}
+
+#Header a {
+    text-decoration: none;
+    color: white;
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 30px;
+    margin: 20px;
+    transition: color 0.5s ease;
+}
+
+#Header a:hover {
+    color: #ff9f43;
+}

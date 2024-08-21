@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,500&display=swap');
+
+#Terms {
+    text-align: center;
+    max-width: 60%; 
+    margin: 0 auto; 
+}
+
+#Terms p {
+    font-family: "Inconsolata", monospace;
+    padding-bottom: 30px;
+    font-size: 25px;
+    color: #fff;
+}
+
+#Terms h1 {
+    font-family: "New Amsterdam", sans-serif;
+    font-size: 30px;
+    color: #fff;
+    padding-bottom: 50px;
+}
+
+#Terms h2 {
+    font-family: "Inter", sans-serif;
+    font-size: 30px;
+    color: #fff;
+}

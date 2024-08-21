@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 20%;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+}

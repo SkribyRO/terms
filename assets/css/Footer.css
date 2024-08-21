@@ -1,0 +1,10 @@
+#Footer {
+    color: aliceblue;
+}
+
+#Footer h2 {
+    font-size: 30px;
+    text-align: center;
+    padding: 0px 0px 10px;
+    font-family: "New Amsterdam", sans-serif;
+}

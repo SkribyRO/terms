@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+#content {
+    display: none;
+}
+#blocked {
+    display: none;
+    color: red;
+}
